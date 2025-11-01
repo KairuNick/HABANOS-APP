@@ -1,0 +1,2 @@
+import MenuItem from './MenuItem'
+export default function CategorySection({name,items}){return (<section id={name} className='category'><h2>{name}</h2><div className='grid'>{items.map((it,idx)=><MenuItem key={idx} item={it}/>)}</div><style jsx>{`.category{margin:28px 0 40px;padding:20px 10px;} h2{color:var(--accent);margin:6px 0 12px;letter-spacing:2px;font-size:20px;} .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;}`}</style></section>)}

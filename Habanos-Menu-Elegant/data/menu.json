@@ -1,0 +1,3682 @@
+{
+  "Accompaniments": [
+    {
+      "name": "Chips",
+      "price": "KSh 200",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Traditional Ugali",
+      "price": "KSh 100",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": "KSh 300",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Cilantro Rice",
+      "price": "KSh 450",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "price": "KSh 350",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Traditional Vegetables",
+      "price": "KSh 100",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "CHIPS MASALA",
+      "price": "KSh 400",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    },
+    {
+      "name": "Creamy Mashed potatoes",
+      "price": "KSh 350",
+      "image": "/images/accompaniments.png",
+      "description": ""
+    }
+  ],
+  "Add On": [
+    {
+      "name": "monin strawberry 1litre",
+      "price": "KSh 4500",
+      "image": "/images/add_on.png",
+      "description": ""
+    },
+    {
+      "name": "Guacamole",
+      "price": "KSh 250",
+      "image": "/images/add_on.png",
+      "description": ""
+    }
+  ],
+  "Apetizers": [
+    {
+      "name": "Golden Prawns",
+      "price": "KSh 1000",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "Beef samosas(3pc)",
+      "price": "KSh 350",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Samosa (3pcs)",
+      "price": "KSh 350",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "BBQ WINGS",
+      "price": "KSh 850",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "Fish finger",
+      "price": "KSh 800",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Samosas (3pcs)",
+      "price": "KSh 250",
+      "image": "/images/apetizers.png",
+      "description": ""
+    },
+    {
+      "name": "Spicy Buffalo Wings (6pcs)",
+      "price": "KSh 850",
+      "image": "/images/apetizers.png",
+      "description": ""
+    }
+  ],
+  "Beer": [
+    {
+      "name": "MANYATTA",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "MANYATTA BEER 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "TUSKER LAGER CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "WHITE CAP CRISP 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "WHITECAP CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "TUSKER MALT CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "TUSKER LITE CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "TUSKER CIDER CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "SAVANNAH 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "SNAPP CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "PUNCH PINEAPPLE 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "PILSNER CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "KINGFISHER 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "HUNTERS GOLD 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "HUNTERS DRY 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "HEINEKEN CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "HEINEKEN BTLE 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "HEINEKEN 0.0%  2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "GUINESS SMOOTH CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "GUINESS CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "GUARANA CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "GORDON PINK CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "GORDON GIN & TONIC CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "DESPERADO 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "CORONA BEER 2",
+      "price": "KSh 1000",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "BLACK ICE 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "BALOZI CAN 2",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "KENYAN ORIGINAL",
+      "price": "KSh 800",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Kingfisher 330ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "MANYATTA BEER BUCKET (4 BEERS)",
+      "price": "KSh 1050",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Corona Beer",
+      "price": "KSh 500",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Guinness Smooth 500ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons pink can 350ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Heineken 0.0%",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Pilsner Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Whitecap Crisp Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Tusker Cider Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Gin $ Tonic can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Hunters Gold 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Hunters Dry 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Kenya Original 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Savannah 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Heineken Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Heineken Bttl 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Tusker Lager Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Tusker Lite Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Tusker Malt Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Guinness Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Balozi Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Whitecap Can",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Guarana 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Punch Pinapple 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Black Ice  330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Snapp Can  330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    },
+    {
+      "name": "Desperado 330 ml",
+      "price": "KSh 400",
+      "image": "/images/beer.png",
+      "description": ""
+    }
+  ],
+  "Bites": [
+    {
+      "name": "Chicken Sausage Mshikaki",
+      "price": "KSh 100",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Samosa (Beef) Pair",
+      "price": "KSh 200",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Boiled Egg",
+      "price": "KSh 150",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Fry Egg",
+      "price": "KSh 200",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Omellette",
+      "price": "KSh 200",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": "KSh 800",
+      "image": "/images/bites.png",
+      "description": ""
+    },
+    {
+      "name": "Sausage(Beef) Pair",
+      "price": "KSh 200",
+      "image": "/images/bites.png",
+      "description": ""
+    }
+  ],
+  "Brandy": [
+    {
+      "name": "monin coconut syrup 1litre",
+      "price": "KSh 4500",
+      "image": "/images/brandy.png",
+      "description": ""
+    },
+    {
+      "name": "Viceroy 10yrs 750ml",
+      "price": "KSh 6000",
+      "image": "/images/brandy.png",
+      "description": ""
+    },
+    {
+      "name": "Viceroy 750 ml",
+      "price": "KSh 4000",
+      "image": "/images/brandy.png",
+      "description": ""
+    }
+  ],
+  "Champagne": [
+    {
+      "name": "Armand Ace of Spade Brut Gold 750ml",
+      "price": "KSh 70000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bottega White 750ml",
+      "price": "KSh 10000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini Extra Dry Standard Prosecco Blue",
+      "price": "KSh 12000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini Dry Prosecco Silver",
+      "price": "KSh 23000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Veuve Clicquot Rich 750ml",
+      "price": "KSh 22000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "moet&chandon nectar rose 700ml",
+      "price": "KSh 20000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini  demi sec",
+      "price": "KSh 18000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini  prosecco extra dry standard",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini  chardonnay brut standard",
+      "price": "KSh 18000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "veuve clicquote naked rose",
+      "price": "KSh 26000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "veuve clicquote brut 750ml",
+      "price": "KSh 22000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Don Perignon 750ml",
+      "price": "KSh 100000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "MOET ICE CHARDONNAY IMPERIAL 750ML",
+      "price": "KSh 20000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "MOET ROSE IMPERIAL 750ML",
+      "price": "KSh 20000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Belaire Rose 750ml(Rare)",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Belaire luxe Rose",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bueno Amici Rose",
+      "price": "KSh 6000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bueno Amici Cuvee",
+      "price": "KSh 6000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bueno Amici Proseco Brut",
+      "price": "KSh 6000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "LUC BELAIRE BLUE 750ML",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "LUC BELAIRE  GOLD 750ML",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bottega Rose 750ml",
+      "price": "KSh 10000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Bottega Gold 750ml",
+      "price": "KSh 10000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "MOET BRUT 750ML",
+      "price": "KSh 20000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Moet nectar",
+      "price": "KSh 20000",
+      "image": "/images/champagne.png",
+      "description": ""
+    },
+    {
+      "name": "Belaire Luxe",
+      "price": "KSh 15000",
+      "image": "/images/champagne.png",
+      "description": ""
+    }
+  ],
+  "Choma Zone": [
+    {
+      "name": "SAMOSA",
+      "price": "KSh 100",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Kachumbari",
+      "price": "KSh 200",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Choma Stir fry 1/2",
+      "price": "KSh 900",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Choma Stir fry 1kg",
+      "price": "KSh 1800",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Kmc Mutura",
+      "price": "KSh 500",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Shawarma - Chicken",
+      "price": "KSh 350",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Legs",
+      "price": "KSh 400",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Choma Half",
+      "price": "KSh 750",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Choma 1kg",
+      "price": "KSh 1500",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Choma Sausage",
+      "price": "KSh 200",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Drumstick",
+      "price": "KSh 200",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    },
+    {
+      "name": "Mshikaki",
+      "price": "KSh 200",
+      "image": "/images/choma_zone.png",
+      "description": ""
+    }
+  ],
+  "Cigarette": [
+    {
+      "name": "Velo Indigo Blue 15s",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Velo Indigo Blue 20s",
+      "price": "KSh 1000",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Velo Jade Green 15s",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Velo Jade Green 20s",
+      "price": "KSh 1000",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Lighter",
+      "price": "KSh 100",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Dunhill Single Switch",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Rothman Red",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Dunhill Double Switch",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    },
+    {
+      "name": "Embassy Blue",
+      "price": "KSh 800",
+      "image": "/images/cigarette.png",
+      "description": ""
+    }
+  ],
+  "Cocktails": [
+    {
+      "name": "MONIN STRAWBERRY SYRUP",
+      "price": "KSh 4200",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MONIN COCONUT SYRUP",
+      "price": "KSh 4200",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Bacardi tot",
+      "price": "KSh 300",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "campari tots",
+      "price": "KSh 4000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "malibu tots",
+      "price": "KSh 4000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "amarula tots",
+      "price": "KSh 5000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Triple sec tots",
+      "price": "KSh 250",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "grenadine syrup tot",
+      "price": "KSh 250",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Kenya cane tot",
+      "price": "KSh 200",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "58 orange tot",
+      "price": "KSh 300",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "martini rosso",
+      "price": "KSh 4000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "campari",
+      "price": "KSh 4000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Desperate Housewife",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Blue Lagoon",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Koshers",
+      "price": "KSh 700",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Pinacolada",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Bullfrog",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Angel Sweat",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "NEGRONI",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Martini",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "DOUBLE TROUBLE",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "LIQUID COCAINE",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "BLUE KAMIKAZE",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "B52",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "BLOWJOB",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "BOOMS",
+      "price": "KSh 400",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "jager_bomb",
+      "price": "KSh 600",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "BED OF ROSES",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "KENYAN VACATION",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MINT JULEP",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "ADIOS M F",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "SCREW DRIVER",
+      "price": "KSh 700",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MOJITO",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "LONG ISLAND TEA",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MANHATTAN",
+      "price": "KSh 1000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "LONG D POP",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "HOTPANT",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "FREE FALL",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "HEART AFFAIRS",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "PINK PUSSY",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "SANGRIA",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "GIN & TONIC",
+      "price": "KSh 700",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "DAWA {Alcoholic}",
+      "price": "KSh 700",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MUDSLIDE",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "MOMBASA RAHA",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "PURPLE RAIN",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "BASIL SMASH",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "PINK LADY",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "9 Devils",
+      "price": "KSh 1000",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Old Fashioned",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Whisky Sour",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Sweet Poison",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Cuba Libre",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Cosmopolitan",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Sex on the beach",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Classic Margarita",
+      "price": "KSh 800",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Tequila Sunrise",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Long Island",
+      "price": "KSh 900",
+      "image": "/images/cocktails.png",
+      "description": ""
+    }
+  ],
+  "Cognac": [
+    {
+      "name": "MARTEL XO 1Litre",
+      "price": "KSh 70000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "REDBUL PARTY MIX ,HENNESY VS 1L",
+      "price": "KSh 15000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martel Vsop 1litre",
+      "price": "KSh 19500",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martel Cordon Bleu 700 ml",
+      "price": "KSh 46000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "HENNESSY XO 1LITRE",
+      "price": "KSh 66000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Remy Martin XO 700ml",
+      "price": "KSh 50000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "camus vsop 750ml",
+      "price": "KSh 15000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Redbull party Hennessy vs 700 ml",
+      "price": "KSh 10000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Paradis",
+      "price": "KSh 300000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Remy Martin 1738",
+      "price": "KSh 21000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini  vsop",
+      "price": "KSh 24000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy vs 350 ml",
+      "price": "KSh 4500",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "DUSSÉ VSOP",
+      "price": "KSh 20000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Courvoisier  vsop  700ml",
+      "price": "KSh 13000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martel Xo 750ml",
+      "price": "KSh 60000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Vs 1ltr",
+      "price": "KSh 14000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennesy Vsop 1ltr",
+      "price": "KSh 19500",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy XO 700ML",
+      "price": "KSh 60000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "REMY MARTIN",
+      "price": "KSh 15000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martell Blue Swift 700 ml",
+      "price": "KSh 15500",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Vsop 700 ml",
+      "price": "KSh 16000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martell Vs 700 ml",
+      "price": "KSh 9500",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Martell Vsop 700 ml",
+      "price": "KSh 14000",
+      "image": "/images/cognac.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Vs 700 ml",
+      "price": "KSh 9500",
+      "image": "/images/cognac.png",
+      "description": ""
+    }
+  ],
+  "Condom": [
+    {
+      "name": "DUREX",
+      "price": "KSh 400",
+      "image": "/images/condom.png",
+      "description": ""
+    },
+    {
+      "name": "Trust Studded",
+      "price": "KSh 200",
+      "image": "/images/condom.png",
+      "description": ""
+    }
+  ],
+  "Creams": [
+    {
+      "name": "Sheridans 1000 ml",
+      "price": "KSh 9000",
+      "image": "/images/creams.png",
+      "description": ""
+    }
+  ],
+  "Gin": [
+    {
+      "name": "Malfy Gin Limone 1litre",
+      "price": "KSh 9500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanqueray Sevilla 1Litre",
+      "price": "KSh 7000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gin Mare",
+      "price": "KSh 9000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanqueray ld 1L",
+      "price": "KSh 8000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "befeater pink",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "KO Wedding Batch Classic",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "KO Purple Haze Tea",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gilbeys pink 1ltr",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "BOMBAY SAPHIRE 750 ML",
+      "price": "KSh 5500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Malfy Gin 750ml ROSA",
+      "price": "KSh 8500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Malfy Gin 750ml Limone",
+      "price": "KSh 8500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Beefeater Clear 750ml",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Bombay Sapphire 1ltr",
+      "price": "KSh 6500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Orange",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanqueray Rangpur 700ml",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Bacur Gin Bottega",
+      "price": "KSh 9000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Malfy Gin 750ml",
+      "price": "KSh 8500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanqueray Royale",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gilbeys Pink 750",
+      "price": "KSh 4000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Clear 1L",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "58 Spiced Orange",
+      "price": "KSh 3500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "58 Classic Square",
+      "price": "KSh 3500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Ko Classic 750ml",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "KO Blush 750ml",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Hendricks 1000ml",
+      "price": "KSh 12500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Beefeater Clear 1ltr",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Pink  1000 ml",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Pink  750 ml",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanquaray Sevilla 700 ml",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanquaray 10 750 ml",
+      "price": "KSh 8500",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gordons Clear 750 ml",
+      "price": "KSh 5000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Tanquaray L/D 750 ml",
+      "price": "KSh 6000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Gilbeys 750 ml",
+      "price": "KSh 4000",
+      "image": "/images/gin.png",
+      "description": ""
+    },
+    {
+      "name": "Hendricks 750ml",
+      "price": "KSh 10000",
+      "image": "/images/gin.png",
+      "description": ""
+    }
+  ],
+  "Habanos Special": [
+    {
+      "name": "Ugali Matumbo",
+      "price": "KSh 850",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Guacamolle",
+      "price": "KSh 300",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Githeri",
+      "price": "KSh 500",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": "KSh 850",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Beef Wrap",
+      "price": "KSh 850",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Burger",
+      "price": "KSh 850",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Ugandan Soup",
+      "price": "KSh 600",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Goat Half",
+      "price": "KSh 1250",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Goat",
+      "price": "KSh 2500",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Whole Tilapia Wet Fry",
+      "price": "KSh 1200",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Fish Curry",
+      "price": "KSh 850",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Spicy chicken wings",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Half Beef",
+      "price": "KSh 1250",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Beef 1kg",
+      "price": "KSh 2500",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Steak Choma half",
+      "price": "KSh 900",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Steak Choma 1kg",
+      "price": "KSh 1800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chips Vuruga",
+      "price": "KSh 400",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Pilau Njeri",
+      "price": "KSh 400",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Take away plates",
+      "price": "KSh 20",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Grilled Chicken Full (Grill)",
+      "price": "KSh 1800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Grilled Chicken Half (Grill)",
+      "price": "KSh 900",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Fish Masala",
+      "price": "KSh 1000",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Fish Pilau",
+      "price": "KSh 1000",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Masala+Acc",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Wings+Acc",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Maryland",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Drumstick+Acc",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Curry +Acc",
+      "price": "KSh 1000",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Alacate",
+      "price": "KSh 1000",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": "KSh 800",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Mbuzi 1kg Plain",
+      "price": "KSh 1500",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    },
+    {
+      "name": "Tumbukiza Beef Plain 1kg",
+      "price": "KSh 1500",
+      "image": "/images/habanos_special.png",
+      "description": ""
+    }
+  ],
+  "Hot": [
+    {
+      "name": "Milk",
+      "price": "KSh 100",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Brewed Coffee",
+      "price": "KSh 300",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "House Coffee",
+      "price": "KSh 200",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "White Coffee",
+      "price": "KSh 250",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Coffee cup(250m)",
+      "price": "KSh 150",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Full Breakfast",
+      "price": "KSh 600",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Black Chocolate",
+      "price": "KSh 150",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Black Coffee",
+      "price": "KSh 250",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Dawa plain",
+      "price": "KSh 250",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Lemon Water",
+      "price": "KSh 100",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": "KSh 100",
+      "image": "/images/hot.png",
+      "description": ""
+    },
+    {
+      "name": "White Tea",
+      "price": "KSh 200",
+      "image": "/images/hot.png",
+      "description": ""
+    }
+  ],
+  "Juice": [
+    {
+      "name": "CranBerry Apple 1litre",
+      "price": "KSh 700",
+      "image": "/images/juice.png",
+      "description": ""
+    },
+    {
+      "name": "Delmonte 1000 ml",
+      "price": "KSh 500",
+      "image": "/images/juice.png",
+      "description": ""
+    }
+  ],
+  "Liquor": [
+    {
+      "name": "REDBUL PARTY MIX ,JAGERMEISTER 1L",
+      "price": "KSh 7500",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "REDBUL PARTY MIX ,JAGERMEISTER 700ML",
+      "price": "KSh 6500",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Baileys 1LITRE",
+      "price": "KSh 6000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "JAGERMISTER COLD BREW 1LITRE",
+      "price": "KSh 7000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "JAGER 350 ML",
+      "price": "KSh 2000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Martini Rosso 750ml",
+      "price": "KSh 4000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "AMARULA 750ML",
+      "price": "KSh 5000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Martini Bianco 750ml",
+      "price": "KSh 5500",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Angostura Bitters 200ml",
+      "price": "KSh 6500",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Cointreau 750ml",
+      "price": "KSh 6500",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Campari 750ml",
+      "price": "KSh 4000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Southern Comfort 750ml",
+      "price": "KSh 4000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Jagermeister 1ltr",
+      "price": "KSh 7000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Baileys 750 ml",
+      "price": "KSh 5000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Amarula  1000 ml",
+      "price": "KSh 6000",
+      "image": "/images/liquor.png",
+      "description": ""
+    },
+    {
+      "name": "Jagermeister 700 ml",
+      "price": "KSh 6000",
+      "image": "/images/liquor.png",
+      "description": ""
+    }
+  ],
+  "Main Course": [
+    {
+      "name": "BBQ Pork  500g",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Whole Tilapia Dry Fry",
+      "price": "KSh 1200",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "HALF GOAT DRY FRY",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "1/2 BEEF WET FRY(Chips)",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "1/2 BEEF DRY FRY(Chips)",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "BBQ Pork Ribs",
+      "price": "KSh 1700",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Broiler Chicken (full Dry fry)",
+      "price": "KSh 1500",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Broiler Chicken(Half Dry Fry)",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Chicken Dhania Stew 500g",
+      "price": "KSh 900",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "GOAT 1/2  WET FRY",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "GOAT WET FRY 1kg",
+      "price": "KSh 1750",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "BEEF WET 1/2 FRY",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "BEEF 1/2 DRY FRY",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "1KG Mbuzi Wet",
+      "price": "KSh 1750",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "1KG Beef Wet Fry",
+      "price": "KSh 1700",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Loaded Beef Burger",
+      "price": "KSh 1200",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Broiler Chicken (half wet fry)",
+      "price": "KSh 850",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Kienyeji Chicken (Half Wet Fry)",
+      "price": "KSh 1200",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Kienyeji Chicken(Half Dry Fry)",
+      "price": "KSh 1200",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Kienyeji Chicken(Full Dry Fry)",
+      "price": "KSh 2200",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Goat Dry Fry 1kg",
+      "price": "KSh 1750",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Beef Dry Fry 1kg",
+      "price": "KSh 1700",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Broiler Chicken Wet fry",
+      "price": "KSh 1500",
+      "image": "/images/main_course.png",
+      "description": ""
+    },
+    {
+      "name": "Kienyeji Chicken(full Wet Fry)",
+      "price": "KSh 2200",
+      "image": "/images/main_course.png",
+      "description": ""
+    }
+  ],
+  "Mains": [
+    {
+      "name": "Anti-Theft Half",
+      "price": "KSh 1000",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Platter for Six",
+      "price": "KSh 7800",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Platter for Four",
+      "price": "KSh 6000",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Platter for Two",
+      "price": "KSh 3500",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Half",
+      "price": "KSh 1000",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Anti-Theft",
+      "price": "KSh 2000",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "1/2 BEEF WET FRY",
+      "price": "KSh 850",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "1/2 BEEF DRY FRY",
+      "price": "KSh 850",
+      "image": "/images/mains.png",
+      "description": ""
+    },
+    {
+      "name": "Test",
+      "price": "KSh 250",
+      "image": "/images/mains.png",
+      "description": ""
+    }
+  ],
+  "Mocktails": [
+    {
+      "name": "Milkshake",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Mary Colada",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Lemonade",
+      "price": "KSh 400",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Shirley Temple",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Dawa {Plain}",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Passion Delight",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Tropical Punch",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    },
+    {
+      "name": "Virgin Mojito",
+      "price": "KSh 500",
+      "image": "/images/mocktails.png",
+      "description": ""
+    }
+  ],
+  "Rum": [
+    {
+      "name": "Captain Morgan Spiced 1lltre",
+      "price": "KSh 5000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "CAPTAIN MORGAN GOLD",
+      "price": "KSh 4000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Bumbu xo",
+      "price": "KSh 15000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Bumbu rum original",
+      "price": "KSh 10000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Bumbu cream",
+      "price": "KSh 12000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "MALIBU 1000L",
+      "price": "KSh 5000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "CAPTAIN MORGAN SPICED 750ML",
+      "price": "KSh 4000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Bacardi 750ml",
+      "price": "KSh 4000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Bacardi 1ltr",
+      "price": "KSh 5000",
+      "image": "/images/rum.png",
+      "description": ""
+    },
+    {
+      "name": "Malibu 750 ml",
+      "price": "KSh 4000",
+      "image": "/images/rum.png",
+      "description": ""
+    }
+  ],
+  "Shots": [
+    {
+      "name": "martini rosso tots",
+      "price": "KSh 4000",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio Anejo Tot\\t",
+      "price": "KSh 700",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Smirnoff vodka Tots",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Gordon tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Gilbeys Tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Vsop Tots",
+      "price": "KSh 900",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Camino Gold Tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Hennessy Shots",
+      "price": "KSh 450",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Olmeca Chocolate shots",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Tequila Rose Shots",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Baileys Shots",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio Bianco Shots",
+      "price": "KSh 600",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio Repasado  Shots",
+      "price": "KSh 600",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Jose Cuervo Silver tot",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Jose Cuervo Gold tot",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Sheridans Tot",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "JACK DANIELS TOT",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Camino Clear Tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Jaegermeister Tot",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Red Label Tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Jameson Tot",
+      "price": "KSh 300",
+      "image": "/images/shots.png",
+      "description": ""
+    },
+    {
+      "name": "Black Label Tots",
+      "price": "KSh 400",
+      "image": "/images/shots.png",
+      "description": ""
+    }
+  ],
+  "Smokes": [
+    {
+      "name": "Green Mint Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Magic Love Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Grape Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Coconut Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Cocktail Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Blue Berry Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Orange Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Sultan Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Gum Mint Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Double Apple Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Kiwi Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Watermelon Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Grape Mint Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Bubble Gum Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Gum flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Mint Sultan Flavour",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Mint Flavor",
+      "price": "KSh 1500",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Vapes 3000 Puffs",
+      "price": "KSh 3000",
+      "image": "/images/smokes.png",
+      "description": ""
+    },
+    {
+      "name": "Vape 1800 puffs",
+      "price": "KSh 2000",
+      "image": "/images/smokes.png",
+      "description": ""
+    }
+  ],
+  "Soft Drink": [
+    {
+      "name": "Mayer's Water",
+      "price": "KSh 300",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Tonic water bottled",
+      "price": "KSh 150",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "ADAM'S HARVEST",
+      "price": "KSh 550",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "JABA JUICE 400ML",
+      "price": "KSh 1000",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Habanos Water 1ltr",
+      "price": "KSh 200",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Minute Maid",
+      "price": "KSh 200",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "GINGER ALE",
+      "price": "KSh 300",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "KO Hibiscus &lime 330ml can",
+      "price": "KSh 250",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Handas Juice 450ml",
+      "price": "KSh 1000",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Handas Juice 750ml",
+      "price": "KSh 1500",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Keringet Sparkling 1ltr",
+      "price": "KSh 250",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Ko Classic Tonic Can",
+      "price": "KSh 200",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Keringet 1Ltr",
+      "price": "KSh 200",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Brooks 1000 ml",
+      "price": "KSh 150",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Soda 500ml PET",
+      "price": "KSh 150",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Monster 500 ml",
+      "price": "KSh 400",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    },
+    {
+      "name": "Redbull 250ML",
+      "price": "KSh 400",
+      "image": "/images/soft_drink.png",
+      "description": ""
+    }
+  ],
+  "Tequila": [
+    {
+      "name": "Casamigos Mezcal 750ml",
+      "price": "KSh 24000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "casamigos Anejo 700ml",
+      "price": "KSh 24000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "casamigo Anejo 1litre",
+      "price": "KSh 26000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "casamigos reposado 750ml",
+      "price": "KSh 24000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Clase Azul Platter",
+      "price": "KSh 100000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio1942",
+      "price": "KSh 100000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "casamigos blanco 750ml",
+      "price": "KSh 24000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Lamborghini. Silver",
+      "price": "KSh 50000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Volcan Xa luminous 700 ml",
+      "price": "KSh 75000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Volcan Reposado 700 ml",
+      "price": "KSh 14500",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Volcan Blanco 700 ml",
+      "price": "KSh 14500",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Olmeca Gold 750",
+      "price": "KSh 6000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "LAMBORGHINI ANEJO",
+      "price": "KSh 100000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Clase Azul mexico",
+      "price": "KSh 100000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Patron Silver 750ml",
+      "price": "KSh 13000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Patron Anejo 750ml",
+      "price": "KSh 17000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Patron Reposado 750ml",
+      "price": "KSh 16000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Jose Cuervo silver 750ml",
+      "price": "KSh 5000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "DON JULIO ANEJO 750ML",
+      "price": "KSh 16000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Olmeca Chocolate 750ml",
+      "price": "KSh 6000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Jose cuervo  gold1ltr",
+      "price": "KSh 6000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Camino Clear 750ml",
+      "price": "KSh 5000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Jose Cuervo Silver 1ltr",
+      "price": "KSh 6000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Martini Rosso ltr",
+      "price": "KSh 5000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio Reposado 750ml",
+      "price": "KSh 14500",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Don Julio Blanco 750ml",
+      "price": "KSh 11000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Tequilar Rose 700 ml",
+      "price": "KSh 6000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Jose Cuervo Gold  750 ml",
+      "price": "KSh 5000",
+      "image": "/images/tequila.png",
+      "description": ""
+    },
+    {
+      "name": "Camino Gold 750ml",
+      "price": "KSh 5000",
+      "image": "/images/tequila.png",
+      "description": ""
+    }
+  ],
+  "Test": [
+    {
+      "name": "TEST ITEM",
+      "price": "KSh 1",
+      "image": "/images/test.png",
+      "description": ""
+    }
+  ],
+  "Vodka": [
+    {
+      "name": "Beluga Nobile Vodka 1LITRE",
+      "price": "KSh 16000",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Grey Goose 750ml",
+      "price": "KSh 8000",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "CIROC BLUE 1LITRE",
+      "price": "KSh 10000",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Belvedere Pure Naked 700ML",
+      "price": "KSh 10500",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Absolute 700ml",
+      "price": "KSh 4500",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Smirnoff 1ltr",
+      "price": "KSh 4500",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Absolute 1ltr",
+      "price": "KSh 5500",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Ciroc Blue 750 ml",
+      "price": "KSh 9000",
+      "image": "/images/vodka.png",
+      "description": ""
+    },
+    {
+      "name": "Smirnoff 750 ml",
+      "price": "KSh 3500",
+      "image": "/images/vodka.png",
+      "description": ""
+    }
+  ],
+  "Whiskey": [
+    {
+      "name": "Jack Daniel Fire 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet Founders Reserve 1LITRE",
+      "price": "KSh 12500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Double Black 750ml",
+      "price": "KSh 9000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with jack Daniel Single Barrel 750ml",
+      "price": "KSh 13000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with jack Daniel Tennesse 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels Apple 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels Apple 1litre",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels Honey 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels Honey 1litre",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Party with Jack Daniels 1litre",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "REDBUL PARTY MIX ,JACK DANIELS 700ML",
+      "price": "KSh 7500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "REDBUL PARTY MIX ,JACK DANIELS 1L",
+      "price": "KSh 8500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniels No.7 Tennessee 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniel Sinatra 1Litre",
+      "price": "KSh 40000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenmorangie 12yrs 700ml",
+      "price": "KSh 12000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenmorangie 14yrs 750ml",
+      "price": "KSh 16000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Grants 1litre",
+      "price": "KSh 5500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Redbull party jw black 1l",
+      "price": "KSh 8500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniels Honey 750ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniels Single Barrel 750ml",
+      "price": "KSh 13000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "glenmorangie  lasanta 700ml",
+      "price": "KSh 18500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "glenmorangie  18YO 700ml",
+      "price": "KSh 45000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniel Apple 1litre",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack daniel apple 700ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniel Honey 1litre",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "URBAN WHISKEY",
+      "price": "KSh 3000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "WOODFORD RESERVE 1L",
+      "price": "KSh 13000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Woodford reserve 700ml",
+      "price": "KSh 11000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet 12yrs 750 ml",
+      "price": "KSh 10500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet 12yrs  1Ltr",
+      "price": "KSh 14500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Famous grouse 750ml",
+      "price": "KSh 5000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Monkey shoulders 1000 ml",
+      "price": "KSh 10000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Monkey Shoulder 750 ml",
+      "price": "KSh 9000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "JW King Goerge V",
+      "price": "KSh 140000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet 18yrs 750ml",
+      "price": "KSh 19000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "BALLANTINES 750ML",
+      "price": "KSh 5000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenfiddich 21Yrs 750ml",
+      "price": "KSh 75000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "CHIVAS REGAL XV 15YRS 750ML",
+      "price": "KSh 12000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "GENTLEMAN JACK 700ML",
+      "price": "KSh 10500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "CHIVAS 12YRS 1L",
+      "price": "KSh 9000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Grants 750ml 12yrs",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet 15yrs 750ml",
+      "price": "KSh 15000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Ballantines 1ltr",
+      "price": "KSh 6000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Singleton 18yrs 750ML",
+      "price": "KSh 16000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Blue label 750ml",
+      "price": "KSh 45000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Macallan 12yrs 750ml",
+      "price": "KSh 18000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenmorangie 10yrs 700ml",
+      "price": "KSh 10500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenmorangie 1ltr",
+      "price": "KSh 13500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Grace O Malley",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet 15yrs 1ltr",
+      "price": "KSh 21000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "CHIVAS REGAL 12YRS 750ML",
+      "price": "KSh 7500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenlivet Founders Reserve 750ml",
+      "price": "KSh 10500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jameson Black Barrel 750ml",
+      "price": "KSh 8500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Green Label 750 ml",
+      "price": "KSh 12500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glendale 750 ml",
+      "price": "KSh 4500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glendale  1000 ml",
+      "price": "KSh 5500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw 18Yrs Platinum 750 ml",
+      "price": "KSh 16000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Gold Reserve 750 ml",
+      "price": "KSh 12000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenfiddich 18 Yrs  750ml",
+      "price": "KSh 19500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenfiddich 15 Yrs 750 ml",
+      "price": "KSh 15000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Glenfiddich 12Yrs 750 ml",
+      "price": "KSh 12500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Singleton  15 Yrs 750 ml",
+      "price": "KSh 13000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Singleton 12 Yrs 750 ml",
+      "price": "KSh 9500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniels  700 ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jack Daniels 1ltr",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jameson 750 ml",
+      "price": "KSh 5000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jameson 1000 ml",
+      "price": "KSh 6000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Double Black 1000 ml",
+      "price": "KSh 10000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Red Label 750 ml",
+      "price": "KSh 4000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Red Label 1000 ml",
+      "price": "KSh 5000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Black 750ml",
+      "price": "KSh 7000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Jw Black 1000ml",
+      "price": "KSh 8000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Famous Grouse 1000 ml",
+      "price": "KSh 6000",
+      "image": "/images/whiskey.png",
+      "description": ""
+    },
+    {
+      "name": "Grants 750 ml",
+      "price": "KSh 4500",
+      "image": "/images/whiskey.png",
+      "description": ""
+    }
+  ],
+  "Wine": [
+    {
+      "name": "VOGA PROSECCO DOC ROSE 750ML",
+      "price": "KSh 6000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "VOGA PROSECCO DOC 750ML",
+      "price": "KSh 6000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "LITTERAM PROSECCO DOC EXTRADRY",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "FRAGOLINO ROSSO SNIPER 750ML",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "EPC ROSE 750ML",
+      "price": "KSh 20000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "EPC BRUT 750ML",
+      "price": "KSh 20000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "EPC BLANC DE NOIR BRUT",
+      "price": "KSh 20000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "EPC BLANC DE BLANCS BRUT",
+      "price": "KSh 20000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "DVINO TOSCANA 750ML",
+      "price": "KSh 6000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "DONELLI PROSECCO BRUT 750ML",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "DONELLI LAMBRUSCO 750ML",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "CANTINE POLINI ETTA FOCU ROSSO",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "AUROSE DE PROVENCE ROSE",
+      "price": "KSh 8000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "AUROSE BLANC",
+      "price": "KSh 10000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "AUROSE MIDI ROSE",
+      "price": "KSh 5000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Rosso Nobile Mazipan",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "FRAGOLINO BIANCO SNIPER 750ML",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Asconi Moscato Rose 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Van African Java Pinotage 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Van Blanc De Blanc 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Kwv Merlot 750ml",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Frontera chardonnay 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Frontera chardonnay 1.5litre",
+      "price": "KSh 6000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Mucho Mas White 750ML",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Rosso Nobile Vanigla 750ML",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "robertson rose 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "THE MANOR SAUVIGNON BLANC",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Rosso Nobile Bois Philter",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Mucho Mas rose 750ml",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "BLACK BIRD 70ML",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Pierra Marcel",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "7 Hills Sweet White",
+      "price": "KSh 2000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "7 Hills Sweet Red",
+      "price": "KSh 2000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "MUCHO MAS RED 750ML",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Dragon Back White 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Dragon Black Red 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Frontera Red 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Birds &Bees white 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Birds&Bees Red 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Rosso Nobile Cherry",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Asconi Moscato White 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Cellar Cask White 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Fragolino Rose 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Cellar Cask Red 5ltrs",
+      "price": "KSh 7000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Fragolino Red 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Gran Mirador Red 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Expression Sweet Red 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Expression Sweet White 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Gran Castillo White 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Gran Castillo Red 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Bianco nobile vanigla 750ml",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Tall horse chardonnay",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "RObertson white wine",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Fragolino Sparkling White 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Asconi Pastoral 750ml",
+      "price": "KSh 3500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Nederberg sauvgnon blanc 750ml",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Nederberg Cabernet Sau",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Rosso Nobile Chocolata",
+      "price": "KSh 4000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Drostdy hof red",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "4th street white 750ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "4Th Steet Red 5000 ml",
+      "price": "KSh 5500",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Robertson Red 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Cellar Cask Red 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Four Cousins White 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Four Cousins Red 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "4Th Street Red 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    },
+    {
+      "name": "Drostdy Hof White(Dry) 750 ml",
+      "price": "KSh 3000",
+      "image": "/images/wine.png",
+      "description": ""
+    }
+  ],
+  "Wine By Glass": [
+    {
+      "name": "CELLAR CASK RED GLASS",
+      "price": "KSh 400",
+      "image": "/images/wine_by_glass.png",
+      "description": ""
+    },
+    {
+      "name": "4TH STREET WHITE GLASS",
+      "price": "KSh 400",
+      "image": "/images/wine_by_glass.png",
+      "description": ""
+    },
+    {
+      "name": "4TH STREET RED GLASS",
+      "price": "KSh 400",
+      "image": "/images/wine_by_glass.png",
+      "description": ""
+    }
+  ]
+}
